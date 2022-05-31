@@ -1,0 +1,1 @@
+__All__ = ['Clima', 'EventosDia']
