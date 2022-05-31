@@ -5,8 +5,8 @@
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [Python](https://www.python.org) - Main programming language
-- [Kivy](/https://kivy.org/) - GUI Framework
+- [Python](https://www.python.org/) - Main programming language
+- [Kivy](https://kivy.org/) - GUI Framework
 
 ## 🎈 Screens <a name="Screens"></a>
 
